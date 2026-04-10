@@ -170,7 +170,7 @@ ul{
 }
 
 #Seccion2 img{
-    width: 900px;
+    width: 500px;
     position: absolute;
     left: 8%;  
     top: 50%;
@@ -335,7 +335,7 @@ ul{
     left: 50%;
     top: -30px;
     transform: translateX(-50%);
-    width: 1200px;
+    width: 500px;
 }
 
 #Seccion2 div{
