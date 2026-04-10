@@ -71,7 +71,7 @@ ul{
 }
 
 #icono{
-    display: block;
+    display: none;
     margin-left: auto;
     cursor: pointer;
 }
